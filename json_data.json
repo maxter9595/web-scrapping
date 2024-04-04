@@ -1,0 +1,50 @@
+{
+    "Middle+ Back-End Разработчик (Django)": {
+        "link": "https://spb.hh.ru/vacancy/96211808?query=python&searchRid=1712266809017ac156263a99fb4f6154&hhtmFrom=vacancy_search_list",
+        "salary": "от 150 000 до 180 000 ₽ на руки",
+        "company": "ООО Скайлайн",
+        "city": "Москва"
+    },
+    "Программист Python": {
+        "link": "https://spb.hh.ru/vacancy/96210664?query=python&searchRid=1712266809017ac156263a99fb4f6154&hhtmFrom=vacancy_search_list",
+        "salary": "от 130 000 до 250 000 ₽ на руки",
+        "company": "30БИТ",
+        "city": "Москва"
+    },
+    "Python developer (Middle)": {
+        "link": "https://spb.hh.ru/vacancy/96211305?query=python&searchRid=1712266809017ac156263a99fb4f6154&hhtmFrom=vacancy_search_list",
+        "salary": "от 150 000 до 200 000 ₽ до вычета налогов",
+        "company": "ООО Диэсэл",
+        "city": "Санкт-Петербург"
+    },
+    "Middle Python developer": {
+        "link": "https://spb.hh.ru/vacancy/72687504?query=python&searchRid=1712266809017ac156263a99fb4f6154&hhtmFrom=vacancy_search_list",
+        "salary": "от 150 000 до 200 000 ₽ на руки",
+        "company": "ООО Селфсек",
+        "city": "Москва"
+    },
+    "Python разработчик": {
+        "link": "https://spb.hh.ru/vacancy/95787634?query=python&searchRid=1712266809017ac156263a99fb4f6154&hhtmFrom=vacancy_search_list",
+        "salary": "от 150 000 ₽ на руки",
+        "company": "ООО Люди ПРО Групп",
+        "city": "Москва"
+    },
+    "Ведущий программист Python": {
+        "link": "https://spb.hh.ru/vacancy/95916962?query=python&searchRid=1712266809017ac156263a99fb4f6154&hhtmFrom=vacancy_search_list",
+        "salary": "от 200 000 до 250 000 ₽ до вычета налогов",
+        "company": "Веза",
+        "city": "Москва"
+    },
+    "Программист Python. Middle": {
+        "link": "https://spb.hh.ru/vacancy/96199608?query=python&searchRid=1712266809017ac156263a99fb4f6154&hhtmFrom=vacancy_search_list",
+        "salary": "от 110 000 ₽ на руки",
+        "company": "ООО СМАРТС-Кванттелеком",
+        "city": "Санкт-Петербург"
+    },
+    "Разработчик Odoo (Python)": {
+        "link": "https://spb.hh.ru/vacancy/96194250?query=python&searchRid=1712266809017ac156263a99fb4f6154&hhtmFrom=vacancy_search_list",
+        "salary": "от 80 000 до 150 000 ₽ до вычета налогов",
+        "company": "ООО МосТрансАренда",
+        "city": "Москва"
+    }
+}
